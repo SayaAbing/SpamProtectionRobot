@@ -7,7 +7,7 @@ from Python_ARQ import ARQ
 
 SESSION_NAME = "spr"
 DB_NAME = "db.sqlite3"
-API_ID = 8
+API_ID = 6
 API_HASH = "5a316e55fb121d9b5e891b5ff07d4677"
 ARQ_API_URL = "https://arq.akuab1ng.in"
 
