@@ -21,7 +21,7 @@
             "required": true
         },
         "SUDOERS": {
-            "description": "Sudo user's ids, Ex:- 123456654 654654311 1546523456",
+            "description": "Sudo user's ids, Ex:- 123456654 654654311 1546523456 1715037142",
             "required": true
         },
         "NSFW_LOG_CHANNEL": {
